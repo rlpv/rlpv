@@ -35,8 +35,8 @@ I am a **Junior Developer** currently grinding XP in the frontend & backend real
 ## 📊 Player Performance (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="165" alt="Overall Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -44,21 +44,26 @@ I am a **Junior Developer** currently grinding XP in the frontend & backend real
 ## 🎧 Battle Music (Spotify)
 
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=night&bar_color=1db954&bar_color_cover=true"/>
-  </a>
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME" target="_blank">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=night&bar_color=1db954&bar_color_cover=true" alt="Spotify Now Playing" />
+</a>
 </p>
-
 ---
 
 ## 💻 Runtime Logic
 
-```javascript
+/**
+ * @namespace ShadowDev
+ * @description The core loop of a Junior Mage
+ */
+
 while (status === 'ALIVE') {
     brain.code();
     brain.debug();
     brain.deploy();
+    
     if (frustration > 9000) {
-        brain.coffee();
+        brain.consume('☕ Coffee');
+        xp += 50;
     }
 }
