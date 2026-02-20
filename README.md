@@ -6,9 +6,7 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 </p>
 
-<h1 align="center">
-  <span id="typing"></span>
-</h1>
+<h1 align="center">🎮 Shadow Dev: Junior Software Mage</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffea?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -60,19 +58,19 @@ Currently leveling up my stack and pushing projects to the wild web.
 ## 🌌 Visitor Counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0ff&style=flat-square" />
 </p>
 
 ---
 
 ## 💻 Minimal Edgy Quote
 
-```javascript
+```text
 while(alive) {
-  code();
-  debug();
-  deploy();
-  repeat();
+    code();
+    debug();
+    deploy();
+    repeat();
 }
 ```
 
@@ -86,18 +84,4 @@ while(alive) {
 
 ---
 
-<!-- ==================== -->
-<!-- TYPING ANIMATION JS -->
-<!-- ==================== -->
-<script>
-const text = "Shadow Dev Mode: Activated...";
-let i = 0;
-function typeWriter() {
-  if (i < text.length) {
-    document.getElementById("typing").innerHTML += text.charAt(i);
-    i++;
-    setTimeout(typeWriter, 100);
-  }
-}
-window.onload = typeWriter;
-</script>
+⭐ *“In the neon shadows of errors, I rise stronger.”*
