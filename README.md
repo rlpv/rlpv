@@ -1,8 +1,21 @@
-# 🎮 Shadow Dev: Junior Software Mage
+<!-- ================================ -->
+<!-- 🌌 CYBERPUNK NEON EDGY README -->
+<!-- ================================ -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 </p>
+
+<h1 align="center">
+<pre>
+███████╗██╗      █████╗ ██████╗ ██╗   ██╗
+██╔════╝██║     ██╔══██╗██╔══██╗╚██╗ ██╔╝
+█████╗  ██║     ███████║██████╔╝ ╚████╔╝ 
+██╔══╝  ██║     ██╔══██║██╔═══╝   ╚██╔╝  
+██║     ███████╗██║  ██║██║        ██║   
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝        ╚═╝   
+</pre>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffea?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -32,7 +45,7 @@ Currently leveling up my stack and pushing projects to the wild web.
 
 ---
 
-## 🎧 Now Playing (Spotify)
+## 🎧 Spotify Now Playing
 
 <p align="center">
   <!-- Replace YOUR_SPOTIFY_USERNAME with your Spotify username -->
@@ -60,15 +73,19 @@ Currently leveling up my stack and pushing projects to the wild web.
 
 ---
 
-## 💻 Minimal Edgy Quote
+## 💻 Minimal Edgy Quote (ASCII)
 
 ```text
+> Initializing ShadowDev Mode...
+> Loading Tech Stack...
+> Activating Cyberpunk Neon Mode...
 while(alive) {
     code();
     debug();
     deploy();
     repeat();
 }
+> All systems online.
 ```
 
 ---
