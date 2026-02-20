@@ -30,3 +30,37 @@ I am a **Junior Developer** currently grinding XP in the frontend & backend real
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
+</p>
+---
+## 🌲 Skill Tree: Researching...
+
+- **[◌] System Architecture:** `Level 1` (Understanding how the realm connects)
+- **[●] TypeScript Mastery:** `Level 4` (Converting JS bugs into Type Safety)
+- **[◌] Deployment Rituals:** `Level 2` (Learning the secrets of Docker & CI/CD)
+- **[●] UI/UX Enchantment:** `Level 7` (Making buttons glow with Tailwind)
+
+---
+
+## ⚔️ Active Side Quests
+
+| Quest Name | Objective | Reward |
+| :--- | :--- | :--- |
+| **Project Neon** | Build a real-time chat with Socket.io | +500 XP in Backend |
+| **Portfolio Dungeon** | Finalize this GitHub profile & Portfolio | +100 Charisma |
+| **The Bug Hunt** | Fix 10 open-source issues | Legendary Badge |
+
+---
+
+## 📈 Power Level (GitHub Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+</p>
+
+---
+
+> 💡 **A wild Recruiter appears!** What will you do?  
+> `[Fight]` `[Run]` `[🤝 Connect]` <--- *Choose this one!*
