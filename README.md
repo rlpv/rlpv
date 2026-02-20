@@ -1,4 +1,4 @@
-# 🎮 Shadow Dev: Junior Software Mage
+# 🎮 Shadow Dev: Intern Software Mage
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpxZnd4ZzR6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
@@ -18,9 +18,9 @@
 
 I am a **Junior Developer** currently grinding XP in the frontend & backend realms. I specialize in turning coffee into clean code and bugs into features. Currently leveling up my stack and pushing high-stakes projects to the wild web.
 
-* 🕹️ **Main Class:** Frontend Hacker  
+* 🕹️ **Main Class:** Frontend Vider 
 * ⚔️ **Sub Class:** Backend Rookie  
-* 🔥 **Ultimate Skill:** `StackOverflow` Summoning  
+* 🔥 **Ultimate Skill:** `GPT` Summoning  
 
 ---
 
