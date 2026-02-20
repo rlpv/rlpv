@@ -73,15 +73,13 @@ I am a **Intern Developer** currently grinding XP in the frontend & backend real
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=night&bar_color=1db954&bar_color_cover=true"/>
   </a>
 </p>
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlpv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlpv&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
+  <img src="https://komarev.com/ghpvc/?username=rlpv&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+  
+  <img src="https://img.shields.io/badge/Status-Coding%20in%20the%20Shadows-7aa2f7?style=flat-square&logo=visual-studio-code&logoColor=7aa2f7&labelColor=1a1b26" alt="Status" />
 </div>
 
 <div align="center">
