@@ -31,7 +31,7 @@ I am a **Junior Developer** currently grinding XP in the frontend & backend real
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rlpv&theme=tokyonight&no-bg=true&column=4" alt="Trophies" />
 </p>
 ---
 ## 🌲 Skill Tree: Researching...
@@ -56,8 +56,8 @@ I am a **Junior Developer** currently grinding XP in the frontend & backend real
 ## 📈 Power Level (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rlpv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlpv&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
 </p>
 
 ---
