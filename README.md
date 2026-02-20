@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ralph%20Louie&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%F0%9F%8E%AE%20Shadow%20Dev:%20Junior%20Software%20Mage&descAlignY=52&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ralph%20Louie&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%F0%9F%8E%AE%20Shadow%20Dev:%20Intern%20Junior%20Software%20Mage&descAlignY=52&descAlign=50" width="100%"/>
 
 </div>
+
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpxZnd4ZzR6eXN6eXN6eXN6eXN6eXN6eXN6eXN6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
@@ -14,17 +17,16 @@
   <img src="https://img.shields.io/badge/REGION-GLOBAL-7B61FF?style=for-the-badge&logo=earthly&logoColor=white"/>
 </p>
 
----
-
 ## 🐝 About Me
 
-> *"Code in the neon, grind in the shadows."*
+
 
 I am a **Intern Developer** currently grinding XP in the frontend & backend realms. I specialize in turning coffee into clean code and bugs into features. Currently leveling up my stack and pushing high-stakes projects to the wild web.
 
 * 🕹️ **Main Class:** Frontend Side Quester  
 * ⚔️ **Sub Class:** Backend Rookie  
 * 🔥 **Ultimate Skill:** `GPT` Summoning  
+
 
 ---
 
@@ -84,7 +86,7 @@ I am a **Intern Developer** currently grinding XP in the frontend & backend real
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rlpv&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Kristannnnn)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rlpv&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/rlpv)
 
 </div>
 
