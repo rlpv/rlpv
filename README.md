@@ -14,7 +14,6 @@
 
 ## 🧑‍💻 Character Profile
 
-> *"Code in the neon, grind in the shadows."*
 
 I am a **Junior Developer** currently grinding XP in the frontend & backend realms. I specialize in turning coffee into clean code and bugs into features. Currently leveling up my stack and pushing high-stakes projects to the wild web.
 
