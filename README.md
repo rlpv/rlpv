@@ -38,7 +38,7 @@ I am a **Junior Developer** currently grinding XP in the frontend & backend real
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rlpv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="165" alt="Stats Card" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rlpv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="165" alt="Languages Card" />
 </p>
----
+
 
 ## 🎧 Battle Music (Spotify)
 
