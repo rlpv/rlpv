@@ -1,12 +1,8 @@
-<!-- ================================ -->
-<!-- 🌌 CYBERPUNK NEON MINIMALIST EDGY -->
-<!-- ================================ -->
+# 🎮 Shadow Dev: Junior Software Mage
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 </p>
-
-<h1 align="center">🎮 Shadow Dev: Junior Software Mage</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffea?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -39,6 +35,7 @@ Currently leveling up my stack and pushing projects to the wild web.
 ## 🎧 Now Playing (Spotify)
 
 <p align="center">
+  <!-- Replace YOUR_SPOTIFY_USERNAME with your actual Spotify username -->
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=night&bar_color=1db954&bar_color_cover=true"/>
   </a>
@@ -49,6 +46,7 @@ Currently leveling up my stack and pushing projects to the wild web.
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Replace YOUR_USERNAME with your GitHub username -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="160"/>
 </p>
@@ -58,6 +56,7 @@ Currently leveling up my stack and pushing projects to the wild web.
 ## 🌌 Visitor Counter
 
 <p align="center">
+  <!-- Replace YOUR_USERNAME with your GitHub username -->
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0ff&style=flat-square" />
 </p>
 
