@@ -69,8 +69,8 @@ I am a **Intern Developer** currently grinding XP in the frontend & backend real
 ## 🎧 Battle Music (Spotify)
 
 <p align="center">
-  <a href="https://open.spotify.com/user/Shaishai" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Shaishai&cover_image=true&theme=night&bar_color=1db954&bar_color_cover=true"/>
+  <a href="https://open.spotify.com/user/31eoi5azglhld6wu34ulh7lj6l5m" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_actual_uid&cover_image=true&theme=night&bar_color=1db954&bar_color_cover=true"/>
   </a>
 </p>
 
