@@ -23,9 +23,9 @@
 
 I am a **Intern Developer** currently grinding XP in the frontend & backend realms. I specialize in turning coffee into clean code and bugs into features. Currently leveling up my stack and pushing high-stakes projects to the wild web.
 
-* 🕹️ **Main Class:** Frontend Side Quester  
-* ⚔️ **Sub Class:** Backend Rookie  
-* 🔥 **Ultimate Skill:** `GPT` Summoning  
+* 🕹️ **Main Class:** Backend Rookie  
+* ⚔️ **Sub Class:** Frontend Side Quester  
+* 🔥 **Ultimate Skill:** `GPT Summoning`  
 
 
 ---
